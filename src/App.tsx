@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="font-bold text-violet-400">
-        React + Tailwind instalado + sincronizacion with git
+        Inicio proyecto real
       </p>
     </>
   )
